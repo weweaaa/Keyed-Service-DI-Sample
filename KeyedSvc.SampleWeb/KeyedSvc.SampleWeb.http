@@ -1,0 +1,6 @@
+@KeyedSvc.SampleWeb_HostAddress = http://localhost:5079
+
+GET {{KeyedSvc.SampleWeb_HostAddress}}/¥~³¡/
+Accept: application/json
+
+###
